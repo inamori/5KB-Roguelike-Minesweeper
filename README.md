@@ -1,6 +1,7 @@
 # Roguelike Minesweeper
 
 # What is this?
+* I've wrote it to apply for "[Flutter Create](https://flutter.dev/create)", 5KB code restriction contest
 * A minesweeper with roguelike (or roguelite) features that wrote by 5KB code.
 
 # Getting Started
